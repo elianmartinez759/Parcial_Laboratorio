@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1571283244 source:c:\users\usuario\desktop\parcial_1_lab\parcial.c
+	"Parcial.h"
+
+1571281872 c:\users\usuario\desktop\parcial_1_lab\parcial.h
+	<stdio.h>
+	<string.h>
+
+1571283096 source:c:\users\usuario\desktop\parcial_1_lab\main.c
+	"Parcial.h"
+
